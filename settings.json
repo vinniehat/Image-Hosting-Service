@@ -1,0 +1,6 @@
+{
+  "key": "fileUploadingService",
+  "filePath": "./i",
+  "baseUrl": "https://images.vinniehat.com/i/",
+  "port": 4401
+}
